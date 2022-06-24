@@ -1,0 +1,11 @@
+.leftb, .rightb {
+font-size: 28px;
+font-family: Helvetica, Times New Roman, sans-serif;
+}
+.leftb {
+    background-color: black;
+    color: white;
+}
+.rightb {
+    background-color: yellow;
+}
